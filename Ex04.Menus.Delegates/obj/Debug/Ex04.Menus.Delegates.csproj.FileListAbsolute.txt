@@ -1,0 +1,7 @@
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex04 EliadGavriel 205645377 NissimMuseri 206081697\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
